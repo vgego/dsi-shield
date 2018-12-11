@@ -1,1 +1,0 @@
-modules = { "local" : [ "urv-core/rtl/", "local" ] }
